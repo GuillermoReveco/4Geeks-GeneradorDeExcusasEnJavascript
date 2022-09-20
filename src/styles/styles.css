@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.principal {
+    height: 99vh;
+    width: 99vw;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principal p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+}
